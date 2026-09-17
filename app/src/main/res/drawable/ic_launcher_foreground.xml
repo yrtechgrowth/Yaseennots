@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Notebook Paper Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,26 h38 a4,4 0 0 1 4,4 v48 a4,4 0 0 1 -4,4 h-38 a4,4 0 0 1 -4,-4 v-48 a4,4 0 0 1 4,-4 z" />
+    
+    <!-- Notebook Left Spine -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M34,26 h6 v56 h-6 a4,4 0 0 1 -4,-4 v-48 a4,4 0 0 1 4,-4 z" />
+    
+    <!-- Spine divider line -->
+    <path
+        android:pathData="M40,26 v56"
+        android:strokeColor="#CBD5E1"
+        android:strokeWidth="1" />
+
+    <!-- Bookmark Ribbon -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M46,24 v14 l4,-3.5 l4,3.5 v-14 z" />
+
+    <!-- Text Lines -->
+    <path
+        android:pathData="M46,42 h22"
+        android:strokeColor="#2DBD6C"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M46,50 h22"
+        android:strokeColor="#94A3B8"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M46,58 h16"
+        android:strokeColor="#94A3B8"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M46,66 h12"
+        android:strokeColor="#94A3B8"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+
+    <!-- Stylus / Pen (Diagonal) -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M66,72 L77,48 A2,2 0 0 1 80,47 L81,49 A2,2 0 0 1 80,52 L69,76 Z" />
+    <!-- Pen Nib (Gold) -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M66,72 L62,77 L69,76 Z" />
+</vector>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Yaseen</string>
+    <string name="notes_title">Yaseen Notes</string>
+    <string name="tasks_title">Yaseen Tasks</string>
+    <string name="schedule_title">Yaseen Schedule</string>
+    <string name="files_title">Yaseen Files</string>
+    <string name="chatbot_title">YaRVerse</string>
+    <string name="notebooks_title">Notebooks</string>
+    <string name="trash_title">Trash</string>
+    <string name="stats_title">Statistics</string>
+    <string name="settings_title">Settings</string>
+    <string name="widget_description">Quickly add notes, tasks, view schedule, and access files.</string>
+</resources>

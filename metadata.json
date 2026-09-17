@@ -1,0 +1,6 @@
+{
+  "name": "Yaseen",
+  "description": "Comprehensive productivity suite featuring Yaseen Notes, Yaseen Tasks, Yaseen Schedule, Yaseen Files (full-featured local storage manager & media player), and YaRVerse AI Chatbot with multi-provider API integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
